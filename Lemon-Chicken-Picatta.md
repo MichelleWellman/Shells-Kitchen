@@ -1,7 +1,7 @@
 # Lemon Chicken Picatta
 This recipe is easy, delicious, and comes together pretty quickly. It has a very wide appeal, and appears fancy despite being simple. The recipe came from [Damn Delicious](https://damndelicious.net/2016/02/26/easy-lemon-chicken-piccata/#comments). We have made it a few times with little or no modifications.
 
-## Ingredients
+## Ingredients - Makes 4 servings
 - 1 lb of Spaghetti
 - 1 lb Boneless Skinless Chicken Breasts, cut crosswise in half
 - Salt and Pepper to taste
